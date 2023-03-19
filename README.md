@@ -6,7 +6,7 @@
 - Programming Language used: HTML, CSS, JavaScript
 - Date First Created: March 10, 2023 
 - Date Last Updated: March 16, 2023
-- Online site: https://lamweicheng.github.io/Advansia-FMC-Catalogue/
+- Online site (Still in progress) : https://lamweicheng.github.io/Advansia-FMC-Catalogue/ 
 - Advansia Website : https://www.advansia.com/
 
 
